@@ -1,0 +1,2 @@
+Date                        Credit        Debit    Balance    TYPE OF TRANSACTION
+2020-12-06 09:07:02.597298    1000                      1000             Account Opened
